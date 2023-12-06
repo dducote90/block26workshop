@@ -1,0 +1,12 @@
+
+.selected {
+  border: 2px solid black;
+  padding: 3px;
+  margin: 3px;
+}
+
+.contactBox {
+  border: 2px dotted black;
+  width: fit-content;
+  justify-content: center;
+}
